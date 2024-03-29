@@ -1,0 +1,31 @@
+{
+  "name": "beacon-phantom-detector",
+  "version": "1.0.0",
+  "description": "Facilitates the development of custom financial analysis tools, integrating market data and providing insights for investment decision-making.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/beacon-phantom-detector"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "celestial-orbit-tracker": "1.0.0",
+    "delta-spirit-encoder": "1.0.0",
+    "underscore": "1.0.0",
+    "node-sass": "1.0.0",
+    "react": "1.0.0",
+    "ethers": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "sinon": "1.0.0",
+    "jest": "1.0.0",
+    "debug": "1.0.0",
+    "commander": "1.0.0",
+    "async": "1.0.0"
+  }
+}
